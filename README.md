@@ -53,8 +53,7 @@ Classification Report
 
 ▶️ How to Run
 # Step 1: Clone repository
-git clone https://github.com/your-username/iris-classification.git
-
+git clone https://github.com/jain-garima-notafk/iris-flower-detection
 ✔ Understanding classification models
 ✔ Data preprocessing techniques
 ✔ Model evaluation methods
